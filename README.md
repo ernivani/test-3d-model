@@ -56,3 +56,19 @@ make
 │   └── shader.[h/cpp]# Gestion des shaders OpenGL
 └── assets/           # Modèles et textures (à créer)
 ```
+
+## Commandes Git utiles
+
+```bash
+# Vérifier l'état des fichiers
+git status
+
+# Ajouter des modifications
+git add .
+
+# Créer un commit signé
+git commit -S -m "votre message"
+
+# Pousser les changements
+git push origin main
+```
